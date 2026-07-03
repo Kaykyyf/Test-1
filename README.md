@@ -6,7 +6,7 @@
   <Body>
     <Header>
       <h1> Bem-vindo ao meu site Histórico </h1>
-      <p> Um Espoço para compartilhar conhecimento.</p>
+      <p> Um Espaço para compartilhar conhecimento.</p>
     </Header>
     <section>
       <h2> Sobre o Projeto </h2>
