@@ -16,7 +16,7 @@
       <h2> Recurso Principais</h2>
       <ul>
         <li> Estrutura limpa e semântica</li>
-        <li> Fácil leitura para leitores de teta (acessibilidade).</li>
+        <li> Fácil leitura para leitores de tela (acessibilidade).</li>
         <li> Pronto para receber estilização com (SSC)</li>
       </ul>
     </section>
